@@ -1,0 +1,84 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Small Concrete Chicken",
+      "descripcion": "Ea quae eum nesciunt qui. Quasi rerum voluptas est facilis quia aut. Error qui et et velit. Officiis tenetur maiores.",
+      "precio": "626.00",
+      "imagenUrl": "https://source.unsplash.com/1600x900/?product",
+      "cantidad": 16004
+    },
+    {
+      "id": 2,
+      "nombre": "Generic Rubber Computer",
+      "descripcion": "Et quaerat ducimus ad ut ut autem. Ducimus ea laborum excepturi ea rem aut. Consequatur eligendi illum. Amet et delectus nam sed ratione soluta.",
+      "precio": "389.00",
+      "imagenUrl": "https://source.unsplash.com/1600x900/?product",
+      "cantidad": 17055
+    },
+    {
+      "id": 3,
+      "nombre": "Rustic Cotton Towels",
+      "descripcion": "Velit distinctio quia nam est. Aut libero nam itaque qui omnis accusamus maxime nobis non.",
+      "precio": "277.00",
+      "imagenUrl": "https://source.unsplash.com/1600x900/?product",
+      "cantidad": 73348
+    },
+    {
+      "id": 4,
+      "nombre": "Handmade Steel Computer",
+      "descripcion": "Et alias perferendis saepe quas nesciunt. Dolores laborum ad quia aut et quaerat omnis. Quo aut suscipit et deserunt voluptatum officia. Qui doloribus nihil sit quas porro.",
+      "precio": "504.00",
+      "imagenUrl": "https://source.unsplash.com/1600x900/?product",
+      "cantidad": 28286
+    },
+    {
+      "id": 5,
+      "nombre": "Tasty Concrete Chips",
+      "descripcion": "Expedita consequatur perspiciatis quis voluptas animi sunt est. Quia ut sed non enim numquam. Et accusamus dolorum qui repudiandae maiores necessitatibus. Asperiores ducimus ipsam ut ullam inventore ut. Ut ab et neque optio quia quia nisi unde. Dolor omnis nihil accusamus totam ipsam nostrum non facilis necessitatibus.",
+      "precio": "694.00",
+      "imagenUrl": "https://source.unsplash.com/1600x900/?product",
+      "cantidad": 53549
+    },
+    {
+      "id": 6,
+      "nombre": "Incredible Plastic Shoes",
+      "descripcion": "Dicta unde iusto voluptas placeat perspiciatis facere commodi facilis. Numquam et ea sunt qui consequatur et veniam.",
+      "precio": "261.00",
+      "imagenUrl": "https://source.unsplash.com/1600x900/?product",
+      "cantidad": 34125
+    },
+    {
+      "id": 7,
+      "nombre": "Intelligent Frozen Bacon",
+      "descripcion": "Sed aut quasi porro fuga corrupti quia minus. Et nulla enim voluptatem perferendis dolores quia. Maxime quisquam inventore nisi. Cupiditate qui sit voluptates nisi id doloribus. Vero omnis ut sed. Sed et praesentium eum.",
+      "precio": "37.00",
+      "imagenUrl": "https://source.unsplash.com/1600x900/?product",
+      "cantidad": 27782
+    },
+    {
+      "id": 8,
+      "nombre": "Unbranded Rubber Keyboard",
+      "descripcion": "Et sed repellendus. Omnis quo eligendi qui facilis et eligendi sunt.",
+      "precio": "157.00",
+      "imagenUrl": "https://source.unsplash.com/1600x900/?product",
+      "cantidad": 10713
+    },
+    {
+      "id": 9,
+      "nombre": "Fantastic Metal Mouse",
+      "descripcion": "Aut reprehenderit reprehenderit sed in occaecati ducimus voluptatum explicabo delectus. Accusantium facere voluptatem quia autem nesciunt debitis voluptatem tempora ut.",
+      "precio": "76.00",
+      "imagenUrl": "https://source.unsplash.com/1600x900/?product",
+      "cantidad": 77404
+    },
+    {
+      "id": 10,
+      "nombre": "Tasty Concrete Gloves",
+      "descripcion": "Earum nesciunt nemo reprehenderit fugit. Et harum placeat aliquid voluptatem nihil a. Eveniet enim cumque animi cupiditate vel ea. Est ullam ut natus dicta eos itaque ipsa natus qui. Et tempora facere rerum est. Eum quo saepe.",
+      "precio": "686.00",
+      "imagenUrl": "https://source.unsplash.com/1600x900/?product",
+      "cantidad": 79811
+    }
+  ]
+}
